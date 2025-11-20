@@ -1,4 +1,4 @@
-# Project 3: Path Planning - Python (F23)
+# Project 5: Path Planning - Python (F25)
 
 Template code for Project 3 (Path Planning) in Python.
 See [project instructions](https://hellorob.org/projects/p3) for more details.

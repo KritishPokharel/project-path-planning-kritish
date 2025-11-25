@@ -1,6 +1,6 @@
 # Project 5: Path Planning - Python (F25)
 
-**Core Code present inside**: robot_plan_path.py, path_planner_cli.py, src/graph.py, src/graph_search.py, src/utils.py
+**Core Code present inside**: robot_plan_path.py, path_planner_cli.py, src/graph.py, src/graph_search.py, src/utils.py <br>
 **Output**: Upload robot_plan.planner on the Web App to see the path created by robot from start position to goal position.
 
 ## Testing your code on example maps

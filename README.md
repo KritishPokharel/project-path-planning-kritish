@@ -1,7 +1,7 @@
 # Project 5: Path Planning - Python (F25)
 
-Template code for Project 3 (Path Planning) in Python.
-See [project instructions](https://hellorob.org/projects/p3) for more details.
+Core Code present inside: robot_plan_path.py, path_planner_cli.py, src/graph.py, src/graph_search.py, src/utils.py
+Output: Upload robot_plan.planner on the Web App to see the path created by robot from start position to goal position.
 
 ## Testing your code on example maps
 

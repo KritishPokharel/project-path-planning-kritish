@@ -23,7 +23,7 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    graph = GridGraph(args.map)
+    graph = GridGraph(args.map, collision_radius=0.15)
     start, goal = Cell(*args.start), Cell(*args.goal)
 
     if args.algo == "astar":
